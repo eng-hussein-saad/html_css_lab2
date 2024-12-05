@@ -48,6 +48,12 @@
 .service-title {
   margin: 0.5em;
 }
+.navbar-title {
+  text-decoration: none;
+  color: var(--yellow);
+  margin: 0.5em;
+  font-size: larger;
+}
 .card {
   width: 33%;
   display: inline-block;
