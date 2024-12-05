@@ -27,6 +27,9 @@
   text-decoration: none;
   color: var(--yellow);
 }
+.nav-links:hover {
+  color: white;
+}
 
 .list-item {
   margin: 0.7em;
