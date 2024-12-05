@@ -7,6 +7,12 @@
   padding: 0px;
 }
 
+.services.title {
+  font-size: 50px;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
 .nav-container {
   background-color: black;
   color: var(--yellow);
