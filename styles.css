@@ -1,0 +1,62 @@
+:root {
+  --yellow: #fed136;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav-container {
+  background-color: black;
+  color: var(--yellow);
+  padding: 1em;
+  height: 2em;
+}
+
+.navbar-title {
+  float: left;
+}
+
+.navbar-list {
+  list-style: none;
+  display: inline;
+}
+
+.nav-links {
+  text-decoration: none;
+  color: var(--yellow);
+}
+
+.list-item {
+  margin: 0.7em;
+  float: right;
+}
+
+.services {
+  text-align: center;
+  margin: 1.5em;
+}
+.service-photo {
+  background-color: var(--yellow);
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  border-radius: 50%;
+  text-align: center;
+}
+.service-title {
+  margin: 0.5em;
+}
+.card {
+  width: 33%;
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+}
+.section-container {
+  width: 100%;
+}
+.svg {
+  padding-top: 42px;
+}
